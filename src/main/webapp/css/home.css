@@ -1,0 +1,15 @@
+.carousel-inner{
+    border-radius: 12px;
+}
+.carousel-indicators{
+    border-radius: 12px;
+}
+.left{
+    border-radius: 12px;
+}
+.right{
+    border-radius: 12px;
+}
+.novel{
+    border-left:8px solid dodgerblue;
+}
