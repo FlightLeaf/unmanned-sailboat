@@ -1,4 +1,4 @@
-package com.sample;
+package com.javaweb.unmanned_sailboat.entity;
 
 
 public class Relation {
